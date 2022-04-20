@@ -47,7 +47,7 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.02e9bb33.js-unocss-hash.css": [],
+  "assets/app.11c2d45d.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.80a10119.js"
   ],
@@ -55,19 +55,19 @@
     "/assets/virtual_pwa-register.80a10119.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.d18778e8.js",
+    "/assets/404.caca8d35.js",
     "/assets/404.a9d4f0d8.css"
   ],
-  "assets/404.d18778e8.js-unocss-hash.css": [
-    "/assets/404.d18778e8.js",
+  "assets/404.caca8d35.js-unocss-hash.css": [
+    "/assets/404.caca8d35.js",
     "/assets/404.a9d4f0d8.css"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.c72ec079.js",
+    "/assets/home.23476ef9.js",
     "/assets/home.70aa1dc6.css"
   ],
-  "assets/home.c72ec079.js-unocss-hash.css": [
-    "/assets/home.c72ec079.js",
+  "assets/home.23476ef9.js-unocss-hash.css": [
+    "/assets/home.23476ef9.js",
     "/assets/home.70aa1dc6.css"
   ]
 }
